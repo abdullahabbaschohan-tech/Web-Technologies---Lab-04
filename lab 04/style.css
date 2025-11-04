@@ -1,0 +1,35 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+body {
+    background-color: rgb(110, 181, 184);
+}
+
+.head {
+    color: rgb(139, 59, 59);
+}
+
+#h1{
+  background-color: bisque;
+}
+#h2{
+    background-color: bisque;
+}
+#h3{
+    background-color: bisque;
+}
+#h4{
+    background-color: bisque;
+}
+#h5{
+    background-color: bisque;
+}
+#h6{
+    background-color: bisque;
+}
+
+#span {
+    font-style: italic;
+    font-size:medium;
+}
